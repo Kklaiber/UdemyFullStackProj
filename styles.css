@@ -32,3 +32,11 @@ a{
 .dropdown-menu{
     color: red
 }
+.pagination{
+    margin-left: 24em;
+}
+
+.breadcrumb{
+   display: flex;
+   justify-content: center;
+}
